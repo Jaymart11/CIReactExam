@@ -1,3 +1,12 @@
+Languege/Libraries used
+-Codeigniter
+-ReactJS
+-axios
+-antDesign
+-react-router
+-dayjs
+
+
 --CodeIgniter-- 
 
 for part 1 http://localhost/tandoc_jaymart/FibonacciSequence.php access this path then you can change the user input by change it in the code
